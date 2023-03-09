@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmAvQe0Zwjr7Um21qpUyfaxY/smayCQTngiQNdqD0D1OPI2ryY/KYZLAiPLxGLUOxzG0NT+EmVh0gF+6wbvqHw==",
+  "dgSpecHash": "p+FCo7EyDieGFGiQEQ6U8qiV25h72W9VhMrjEndBbCx+9+ZH8GcutMZy4Dbp3jwSCVbXlNTnd1aqt1YjSaXYtw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\TestVillage\\TestVillage.csproj",
+  "projectFilePath": "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\TestVillage\\TestVillage.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vadfa\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\vadfa\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

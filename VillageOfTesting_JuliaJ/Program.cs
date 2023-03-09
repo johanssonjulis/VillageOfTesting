@@ -14,6 +14,7 @@
             //Console.WriteLine(village.Wood);
             //
             //Console.WriteLine(village.Projects_list.Count);
+            Console.WriteLine("hej");
             
         }
     }

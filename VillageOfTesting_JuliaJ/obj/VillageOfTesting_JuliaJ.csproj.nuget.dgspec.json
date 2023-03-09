@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj": {}
+    "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj": {
+    "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj",
+        "projectUniqueName": "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj",
         "projectName": "VillageOfTesting_JuliaJ",
-        "projectPath": "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj",
+        "projectPath": "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ.csproj",
         "packagesPath": "C:\\Users\\vadfa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vadfa\\OneDrive\\Skrivbord\\VillageOfTesting_JuliaJ\\VillageOfTesting_JuliaJ\\obj\\",
+        "outputPath": "C:\\Users\\vadfa\\OneDrive\\Dokument\\GitHub\\VillageOfTesting\\VillageOfTesting_JuliaJ\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\vadfa\\AppData\\Roaming\\NuGet\\NuGet.Config",
