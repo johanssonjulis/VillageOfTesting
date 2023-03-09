@@ -1,0 +1,15 @@
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\bin\Debug\net6.0\VillageOfTesting_JuliaJ.exe
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\bin\Debug\net6.0\VillageOfTesting_JuliaJ.deps.json
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\bin\Debug\net6.0\VillageOfTesting_JuliaJ.runtimeconfig.json
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\bin\Debug\net6.0\VillageOfTesting_JuliaJ.dll
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\bin\Debug\net6.0\VillageOfTesting_JuliaJ.pdb
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.csproj.AssemblyReference.cache
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.AssemblyInfoInputs.cache
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.AssemblyInfo.cs
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.csproj.CoreCompileInputs.cache
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.dll
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\refint\VillageOfTesting_JuliaJ.dll
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.pdb
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\VillageOfTesting_JuliaJ.genruntimeconfig.cache
+C:\Users\vadfa\source\repos\VillageOfTesting_JuliaJ\VillageOfTesting_JuliaJ\obj\Debug\net6.0\ref\VillageOfTesting_JuliaJ.dll
